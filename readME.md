@@ -27,6 +27,7 @@ From that I learned that I should constantly review both the html and css.
 Overall, I learned two main things I've learned in this exercise was not only to practice my html and css but also to finding different ways to overcome my frustrations (usually googling, walking away from computer, or asking the study groups).
 
 ![picture](horiseon-screencapture.png)
+<!--captured via GoFullPage extension on google chrome-->
 
 Deployed website: https://s2hon.github.io/bcs20-hw1/
 Git Repo: https://github.com/s2hon/bcs20-hw1
